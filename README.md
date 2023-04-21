@@ -8,6 +8,5 @@ To determine the best neighborhood, we developed a metric that combines several 
 
 In this project, we analyzed three datasets: Fire Incidents in City of Pittsburgh, Pittsburgh Police Arrest Data, and Non-Traffic Citations. From these datasets, we extracted information on the number of fire incidents, the crime rate, and the number of non-traffic citations issued in each neighborhood.
 
-Using these submetrics, we will develop an overall metric for determining the best neighborhood in Pittsburgh. Then We will ranked each neighborhood based on this metric to determine the best neighborhood.
+Using these submetrics, we will develop an overall metric for determining the best neighborhood in Pittsburgh. Then We ranked each neighborhood based on this metric to determine the best neighborhood.
 
-In the following sections, we will describe our metric in detail, explain how we analyzed each dataset.
