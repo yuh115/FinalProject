@@ -1,5 +1,6 @@
 # FinalProject
 
+## Member:  Ammar Al-abboodi, Zipan Huang, Maggie Lin
 
 Our team has set out to answer the question: What is the best neighborhood in Pittsburgh? We believe that a data-driven approach will give us a more objective and accurate answer than relying solely on subjective opinions.
 
