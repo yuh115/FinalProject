@@ -3,14 +3,14 @@
 ## Team name : Forever 21 (Group 21)
 
 ## Member:  
-Ammar Al-abboodi; 
+Ammar Al-abboodi;   
 Zipan Huang: YUH115@pitt.edu  
 Maggie Lin : PEL106@pitt.edu  
 
 ## Dataset: 
-Fire Incidents in City of Pittsburgh  : https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh
-Pittsburgh Police Arrest Data:  https://data.wprdc.org/dataset/arrest-data
-Non-Traffic Citations : https://data.wprdc.org/dataset/non-traffic-citations
+Fire Incidents in City of Pittsburgh  : https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh  
+Pittsburgh Police Arrest Data:  https://data.wprdc.org/dataset/arrest-data  
+Non-Traffic Citations : https://data.wprdc.org/dataset/non-traffic-citations  
 
 
 Our team has set out to answer the question: What is the best neighborhood in Pittsburgh? We believe that a data-driven approach will give us a more objective and accurate answer than relying solely on subjective opinions.
