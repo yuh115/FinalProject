@@ -5,7 +5,7 @@
 ## Member:  
 Ammar Al-abboodi;   
 Zipan Huang: YUH115@pitt.edu  
-Maggie Lin : PEL106@pitt.edu  
+Maggie Lin: PEL106@pitt.edu  
 
 ## Dataset: 
 Fire Incidents in City of Pittsburgh  : https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh  
