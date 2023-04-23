@@ -21,4 +21,4 @@ In this project, we analyzed three datasets: Fire Incidents in City of Pittsburg
 
 Using these submetrics, we will develop an overall metric for determining the best neighborhood in Pittsburgh. Then We ranked each neighborhood based on this metric to determine the best neighborhood.
 
-## Plz check file - Saftey_Meric_1.ipynb
+## Plz check file - Final Combined notebook: Saftey_Meric_1.ipynb
