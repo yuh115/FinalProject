@@ -3,7 +3,7 @@
 ## Team name : Forever 21 (Group 21)
 
 ## Member:  
-Ammar Al-abboodi: ANA154@pitt.edu;     
+Ammar Al-abboodi: ANA154@pitt.edu     
 Zipan Huang: YUH115@pitt.edu  
 Maggie Lin: PEL106@pitt.edu  
 
