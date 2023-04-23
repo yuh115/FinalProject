@@ -11,7 +11,7 @@ Maggie Lin: PEL106@pitt.edu
 
 ## Dataset: 
 Fire Incidents in City of Pittsburgh [Fires Incidents - Zipan]: https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh  
-Pittsburgh Police Arrest Data [Ammar Arrests - Ammar]:  https://data.wprdc.org/dataset/arrest-data  
+Pittsburgh Police Arrest Data [ Arrests - Ammar]:  https://data.wprdc.org/dataset/arrest-data  
 Non-Traffic Citations [Non-Traffic - Maggie]: https://data.wprdc.org/dataset/non-traffic-citations  
 
 ## Overview：
