@@ -8,9 +8,9 @@ Zipan Huang: YUH115@pitt.edu
 Maggie Lin: PEL106@pitt.edu  
 
 ## Dataset: 
-Fire Incidents in City of Pittsburgh [Fires Incidents]: https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh  
-Pittsburgh Police Arrest Data [Ammar Arrests]:  https://data.wprdc.org/dataset/arrest-data  
-Non-Traffic Citations [Non-Traffic]: https://data.wprdc.org/dataset/non-traffic-citations  
+Fire Incidents in City of Pittsburgh [Fires Incidents - Zipan]: https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh  
+Pittsburgh Police Arrest Data [Ammar Arrests - Ammar]:  https://data.wprdc.org/dataset/arrest-data  
+Non-Traffic Citations [Non-Traffic - Maggie]: https://data.wprdc.org/dataset/non-traffic-citations  
 
 ## Overview：
 Our team has set out to answer the question: What is the best neighborhood in Pittsburgh? We believe that a data-driven approach will give us a more objective and accurate answer than relying solely on subjective opinions.
