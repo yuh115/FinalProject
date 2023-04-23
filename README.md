@@ -1,11 +1,13 @@
 # FinalProject
 
-## Team name : Forever 21 (Group 21)
+## Team name : Forever 21 
 
 ## Member:  
 Ammar Al-abboodi: ANA154@pitt.edu     
 Zipan Huang: YUH115@pitt.edu  
 Maggie Lin: PEL106@pitt.edu  
+
+## Canvas Group number: Final Project 21
 
 ## Dataset: 
 Fire Incidents in City of Pittsburgh [Fires Incidents - Zipan]: https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh  
